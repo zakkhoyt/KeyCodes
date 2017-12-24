@@ -1,4 +1,4 @@
-### Keycode
+### Keycode.swift - A list of keyCodes for NSEvents on OSX
 
 Cocoa does not provide a list of key code constants. 
 
@@ -9,7 +9,7 @@ Example Usage:
 ````
 class MyView: NSView {
     override func keyDown(with event: NSEvent) {
-        if event.keyCode == KeyCode.keyA {
+        if event.keyCode == KeyCode.a {
             if event.modifierFlags.contains(.shift) {
                 print("You pressed 'A'")
             } else {
