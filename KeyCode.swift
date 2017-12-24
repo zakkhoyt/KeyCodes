@@ -1,5 +1,5 @@
 //
-//  KeyCodes.swift
+//  KeyCode.swift
 //
 //  Created by Zakk Hoyt on 12/23/17.
 //  Copyright © 2017 Zakk Hoyt. All rights reserved.

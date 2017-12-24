@@ -1,8 +1,8 @@
-### Keycodes
+### Keycode
 
 Cocoa does not provide a list of key code constants. 
 
-This file constants wrappers around Carbon's <HIToolbox/Events.h> header file. This just provides swifty syntax sugar. Think of it as "NSKeyCodes".
+This file constants wrappers around Carbon's <HIToolbox/Events.h> header file. This just provides swifty syntax sugar. Think of it as "NSKeyCode".
 
 Example Usage:
 
