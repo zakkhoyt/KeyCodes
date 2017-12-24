@@ -1,4 +1,4 @@
-### Keycode.swift - A list of keyCodes for NSEvents on OSX. Think of it as "NSKeyCode"
+### Keycode.swift - A list of key codes for NSEvent.keyCode. Think of this as the phantom "NSKeyCodes"
 
 This file constants wrappers around Carbon's <HIToolbox/Events.h> header file. This stuct provides swifty syntax sugar and frees the developer from sifting through Carbon files. Think of it as "NSKeyCode".
 
